@@ -1,4 +1,4 @@
-thinking, writing, & investing at the crossroads of capital and tech—  
+thinking, writing, & investing at the intersection of capital and technology—  
 from product strategy to open-source experiments, exploring how ideas scale.  
 
 I also help build tech teams. reach me at **alex@nicita.cc**.  
