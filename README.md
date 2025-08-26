@@ -1,11 +1,3 @@
-# alexploring
-
-### currently ⋅ special situations strategy consultant  
-### previously ⋅ software engineer at startups  
-
----
-
-### what I do
 thinking, writing, & investing at the crossroads of capital and tech—  
 from product strategy to open-source experiments, exploring how ideas scale.  
 
