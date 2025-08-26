@@ -11,7 +11,7 @@ I also help build tech teams. reach me at **alex@nicita.cc**.
 - [**react-native-screen-capture-logo**](https://github.com/alexnicita/react-native-screen-capture-logo) ⋅ screenshot watermark marketing library for React Native apps  
 - [**rust-cli-template**](https://github.com/alexnicita/rust-cli-template) ⋅ CLI starter for Rust CLIs  
 - [**dotcom**](https://github.com/alexnicita/dotcom) ⋅ domain name availability developer toolkit
-- also: led the dev team for [**Polymarket / agents**](https://github.com/Polymarket/agents)
+- also: led the dev team for [**Polymarket / agents**](https://github.com/Polymarket/agents) 
 [![GitHub stars](https://img.shields.io/github/stars/Polymarket/agents?style=flat&label=stars)](https://github.com/Polymarket/agents/stargazers) 
 [![GitHub forks](https://img.shields.io/github/forks/Polymarket/agents?style=flat&label=forks)](https://github.com/Polymarket/agents/network/members)
 
