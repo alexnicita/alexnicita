@@ -7,7 +7,8 @@ often help build tech teams. reach me at **alex@nicita.cc**.
 
 ### hacks
 - [**shadcnicita**](https://github.com/alexnicita/shadcnicita) ⋅ personal site with shadcn/ui  
-- [**llmocal**](https://github.com/alexnicita/llmocal) ⋅ local chat agent powered by LLMs  
+- [**llmocal**](https://github.com/alexnicita/llmocal) ⋅ local chat agent powered by LLMs
+- [**scoutshonor**](https://github.com/alexnicita/scoutshonor) ⋅ ai-powered recruiting engine
 - [**react-native-screen-capture-logo**](https://github.com/alexnicita/react-native-screen-capture-logo) ⋅ screenshot watermark marketing library for React Native apps  
 - [**rust-cli-template**](https://github.com/alexnicita/rust-cli-template) ⋅ CLI starter for Rust CLIs  
 - [**dotcom**](https://github.com/alexnicita/dotcom) ⋅ domain name availability developer toolkit
