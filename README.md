@@ -16,6 +16,9 @@ often help build tech teams. reach me at **alex@nicita.cc**.
 - led the dev team for [**Polymarket / agents**](https://github.com/Polymarket/agents) 
 [![GitHub stars](https://img.shields.io/github/stars/Polymarket/agents?style=flat&label=stars)](https://github.com/Polymarket/agents/stargazers) 
 [![GitHub forks](https://img.shields.io/github/forks/Polymarket/agents?style=flat&label=forks)](https://github.com/Polymarket/agents/network/members)
+- [**vocaware.com**](https://vocaware.com)
+- [**chrade.com**](https://chrade.com)
+- +more
 
 ---
 
