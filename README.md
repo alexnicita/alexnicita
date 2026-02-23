@@ -40,8 +40,8 @@ often angel$ + help build tech teams. reach me at **[alex@nicita.cc](mailto:alex
         <a href="https://github.com/Polymarket/agents/network/members"><img src="https://img.shields.io/github/forks/Polymarket/agents?style=flat&label=forks" alt="GitHub forks"></a>
       </td>
     </tr>
-    <tr><td align="center"><a href="https://vocaware.com"><strong>vocaware.com</strong></a></td><td align="center">sVoice Agent Builder</td></tr>
-    <tr><td align="center"><a href="https://chrade.com"><strong>chrade.com</strong></a></td><td align="center">sDeep Financial Research</td></tr>
+    <tr><td align="center"><a href="https://vocaware.com"><strong>vocaware.com</strong></a></td><td align="center">Voice Agent Builder</td></tr>
+    <tr><td align="center"><a href="https://chrade.com"><strong>chrade.com</strong></a></td><td align="center">Deep Financial Research</td></tr>
     <tr><td align="center"><a href="https://constantcoder.ai"><strong>constantcoder.ai</strong></a></td><td align="center">Continuous Reasoning Infra</td></tr>
     <tr><td align="center">+ more...</td><td></td></tr>
   </tbody>
