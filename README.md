@@ -22,7 +22,7 @@ often angel$ + help build tech teams. reach me at **[alex@nicita.cc](mailto:alex
     <tr>
       <th align="center">project</th>
       <th align="center">description</th>
-      <th align="center">language</th>
+      <th align="center">languages</th>
     </tr>
   </thead>
   <tbody>
@@ -98,6 +98,7 @@ often angel$ + help build tech teams. reach me at **[alex@nicita.cc](mailto:alex
         <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" alt="Solidity" height="16">
         <img src="https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white" alt="Haskell" height="16">
         <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white" alt="Ruby" height="16">
+        <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" alt="Java" height="16">
       </td>
     </tr>
   </tbody>
