@@ -100,12 +100,18 @@ often angel$ + help build tech teams. reach me at **[alex@nicita.cc](mailto:alex
 ---
 
 <div align="center">
-  
-## 🤝 connect
-
+  <h2>🤝 connect</h2>
 </div>
 
-- [🧩 **nicita.cc**](https://nicita.cc) · essays & notes  
-- [🐦 **twitter/x**](https://x.com/NicitaAlex)  
-- [📬 **linkedin**](https://www.linkedin.com/in/alexander-nicita/)  
-- [✉️ **email**](mailto:alex@nicita.cc)
+<table align="center">
+  <tr>
+    <td align="left">
+      <ul>
+        <li><a href="https://nicita.cc">🧩 <strong>nicita.cc</strong></a> · essays & notes</li>
+        <li><a href="https://x.com/NicitaAlex">🐦 <strong>twitter/x</strong></a></li>
+        <li><a href="https://www.linkedin.com/in/alexander-nicita/">📬 <strong>linkedin</strong></a></li>
+        <li><a href="mailto:alex@nicita.cc">✉️ <strong>email</strong></a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
