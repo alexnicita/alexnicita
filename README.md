@@ -92,7 +92,13 @@ often angel$ + help build tech teams. reach me at **[alex@nicita.cc](mailto:alex
     <tr>
       <td align="center">+ more...</td>
       <td></td>
-      <td></td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go" height="16">
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" height="16">
+        <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" alt="Solidity" height="16">
+        <img src="https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white" alt="Haskell" height="16">
+        <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white" alt="Ruby" height="16">
+      </td>
     </tr>
   </tbody>
 </table>
