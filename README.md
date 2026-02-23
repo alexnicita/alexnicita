@@ -18,6 +18,7 @@ often help build tech teams. reach me at **alex@nicita.cc**.
 [![GitHub forks](https://img.shields.io/github/forks/Polymarket/agents?style=flat&label=forks)](https://github.com/Polymarket/agents/network/members)
 - [**vocaware.com**](https://vocaware.com)
 - [**chrade.com**](https://chrade.com)
+- [**constantcoder.ai**](https://constantcoder.ai)
 - +more
 
 ---
