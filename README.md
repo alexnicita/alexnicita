@@ -11,13 +11,17 @@ often help build tech teams. reach me at **[alex@nicita.cc](mailto:alex@nicita.c
 
 ---
 
+<div align="center">
+  
 ## ⚡ hacks / products
+
+</div>
 
 <table align="center">
   <thead>
     <tr>
       <th align="center">project</th>
-      <th align="center">what it is</th>
+      <th align="center">description</th>
     </tr>
   </thead>
   <tbody>
@@ -36,16 +40,16 @@ often help build tech teams. reach me at **[alex@nicita.cc](mailto:alex@nicita.c
         <a href="https://github.com/Polymarket/agents/network/members"><img src="https://img.shields.io/github/forks/Polymarket/agents?style=flat&label=forks" alt="GitHub forks"></a>
       </td>
     </tr>
-    <tr><td align="center"><a href="https://vocaware.com"><strong>vocaware.com</strong></a></td><td></td></tr>
-    <tr><td align="center"><a href="https://chrade.com"><strong>chrade.com</strong></a></td><td></td></tr>
-    <tr><td align="center"><a href="https://constantcoder.ai"><strong>constantcoder.ai</strong></a></td><td></td></tr>
+    <tr><td align="center"><a href="https://vocaware.com"><strong>vocaware.com</strong></a></td><td>Voice Agent Builder</td></tr>
+    <tr><td align="center"><a href="https://chrade.com"><strong>chrade.com</strong></a></td><td>Deep Financial Research</td></tr>
+    <tr><td align="center"><a href="https://constantcoder.ai"><strong>constantcoder.ai</strong></a></td><td>Continuous Reasoning Infra</td></tr>
     <tr><td align="center">+ more...</td><td></td></tr>
   </tbody>
 </table>
 
 ---
 
-## 🤝 connect
+## 🤝
 
 - [🧩 **nicita.cc**](https://nicita.cc) · essays & notes  
 - [🐦 **twitter/x**](https://x.com/NicitaAlex)  
