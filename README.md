@@ -49,7 +49,11 @@ often angel$ + help build tech teams. reach me at **[alex@nicita.cc](mailto:alex
 
 ---
 
-## 🤝
+<div align="center">
+  
+## 🤝 connect
+
+</div>
 
 - [🧩 **nicita.cc**](https://nicita.cc) · essays & notes  
 - [🐦 **twitter/x**](https://x.com/NicitaAlex)  
