@@ -13,6 +13,7 @@ often help build tech teams. reach me at **[alex@nicita.cc](mailto:alex@nicita.c
 
 ## ⚡ hacks / products
 
+| project | what it is |
 |---|---|
 | [**shadcnicita**](https://github.com/alexnicita/shadcnicita) | personal site with shadcn/ui |
 | [**llmocal**](https://github.com/alexnicita/llmocal) | local chat agent powered by LLMs |
