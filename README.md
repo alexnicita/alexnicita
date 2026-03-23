@@ -102,6 +102,11 @@ often angel$ + help build tech teams. reach me at **[alex@nicita.cc](mailto:alex
       <td align="center"></td>
     </tr>
     <tr>
+      <td align="center"><a href="https://constantcoder.ai"><strong>cotillion.ai</strong></a></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
       <td align="center">+ more...</td>
       <td></td>
       <td align="center">
