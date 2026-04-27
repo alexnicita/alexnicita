@@ -77,7 +77,7 @@ often angel$ + help build tech teams. reach me at **[alex@nicita.cc](mailto:alex
       <td align="center"><img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust"></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/alexnicita/dotcom"><strong>captain</strong></a></td>
+      <td align="center"><a href="https://github.com/alexnicita/captain"><strong>captain</strong></a></td>
       <td align="center">OpenClaw harness framework</td>
       <td align="center">
         <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust">
