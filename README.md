@@ -85,6 +85,14 @@ often angel$ + help build tech teams. reach me at **[alex@nicita.cc](mailto:alex
       </td>
     </tr>
     <tr>
+      <td align="center"><a href="https://github.com/alexnicita/labrador"><strong>trylabrador.com</strong></a></td>
+      <td align="center">Collaborative Agent Workspace</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" height="16">
+        <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust">
+      </td>
+    </tr>
+    <tr>
       <td align="center">led the dev team for <a href="https://github.com/polymarket/agents"><strong>Polymarket / agents</strong></a></td>
       <td align="center">
         <a href="https://github.com/polymarket/agents/stargazers"><img src="https://img.shields.io/github/stars/polymarket/agents?style=flat&label=stars" alt="GitHub stars"></a>
@@ -107,11 +115,6 @@ often angel$ + help build tech teams. reach me at **[alex@nicita.cc](mailto:alex
     <tr>
       <td align="center"><a href="https://constantcoder.ai"><strong>constantcoder.ai</strong></a></td>
       <td align="center">Continuous Reasoning Infra</td>
-      <td align="center"></td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://trylabrador.com"><strong>trylabrador.com</strong></a></td>
-      <td align="center">Collaborative Agent Workspace</td>
       <td align="center"></td>
     </tr>
     <tr>
