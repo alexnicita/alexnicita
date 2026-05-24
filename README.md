@@ -85,7 +85,7 @@ often angel$ + help build tech teams. reach me at **[alex@nicita.cc](mailto:alex
       </td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/alexnicita/labrador"><strong>trylabrador.com</strong></a></td>
+      <td align="center"><a href="https://github.com/alexnicita/labrador"><strong>labrador</strong></a></td>
       <td align="center">Collaborative Agent Workspace</td>
       <td align="center">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" height="16">
